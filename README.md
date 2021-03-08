@@ -22,6 +22,7 @@ To predict a single image and save it:
 
 `python predict.py -i image.jpg -o output.jpg`
 
+
 To predict a multiple images and show them without saving them:
 
 `python predict.py -i image1.jpg image2.jpg --viz --no-save`
